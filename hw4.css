@@ -1,0 +1,9 @@
+.img{
+    width:400px;
+    height: 250px;
+    margin-left:80px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
